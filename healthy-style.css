@@ -1,0 +1,163 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.section-one{
+    display: flex;
+}
+
+.row-style{
+    width: 45%;
+    margin: 5%;
+}
+
+.item-align{
+    padding: 150px 0;
+}
+.title-color{
+    color: tomato;
+}
+
+.main-title{
+    font-size: 60px;
+    font-weight: 900;
+    margin: 25px 0 0 0;
+    color: #424242;
+}
+
+.first-pera{
+    margin-top: 60px;
+    margin-bottom: 40px;
+    color: #757575;
+    font-size: 23px;
+}
+
+.blog-button{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bolder;
+    background-image: linear-gradient(360deg, tomato, orange);
+    padding: 15px 50px;
+    border-radius: 50px;
+}
+
+.person-image{
+    width: auto;
+    height: 530px;
+}
+
+.section-two{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-bottom: 100px;
+}
+
+.section-two-row-1{
+    width: 40%;
+    margin-left: 15%;
+    margin-top: 70px;
+    
+    
+}
+.section-two-row-2{
+    width: 50%;
+    margin-right: 200px;
+    padding: 5%;
+}
+
+h2{
+    font-size: 35px;
+    color: #757575;
+}
+
+.second-pera{
+    font-size: 23px;
+    color: #8b8b8b;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+
+/* recipies section */
+.section-three{}
+.recipies-head{
+    text-align: center;
+    width: 47%;
+    margin: 0 auto;
+}
+.recipies-box-main{
+    display: flex;
+    margin-top: 70px;
+}
+.recipies-box{
+    padding: 2%;
+    width: 40%;
+    border-radius: 25px;
+    box-shadow: 0 5px 30px rgb(145, 130, 125);
+    
+}
+.recipies-box img{
+    width: 100%;
+    border-radius: 25px;
+}
+
+.box-1{
+    margin-left: 8%;
+    margin-right: 2%;
+}
+
+.box-2{
+    margin-left: 2%;
+    margin-right: 8%;
+}
+
+/* section three */
+.section-three{
+    margin: 75px 0;
+}
+
+.s-3-main{
+    display: flex;
+    
+       
+}
+.s-3-sub{
+   width: 25%;
+   text-align: center;
+   margin: 0 auto;
+}
+
+.s-3-sub-1{
+    margin-left: 10%;
+}
+.s-3-sub-3{
+    margin-right: 10%;
+}
+
+.footer-main{
+    background-color: #080028;
+padding: 3%;
+}
+
+h3{
+    margin: 0;
+    color: #8b8b8b;
+    font-size: 25px;
+}
+
+.footer-title{
+    text-align: center;
+}
+.f-pera{
+    text-align: center;
+    margin: 50px 0;
+}
+.f-pera p{
+    color: #ffffff;
+
+}
